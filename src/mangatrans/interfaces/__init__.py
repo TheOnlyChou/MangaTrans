@@ -1,0 +1,1 @@
+"""Interface layer - User-facing interfaces (CLI, API, etc.)."""
